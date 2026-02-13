@@ -1,4 +1,4 @@
 export const TERMINOLOGY = {
-  role: "Deployer",
+  role: "Shipper",
   verb: "ship",
 } as const;

@@ -1,4 +1,4 @@
 export function getRoleLabel() {
-  // Product terminology: we prefer "Deployer".
-  return "Deployer";
+  // Product terminology: use "Shipper" to match older copy.
+  return "Shipper";
 }
